@@ -37,7 +37,7 @@ nav {
   margin-bottom: 10px;
 }
 .surat {
-  background-image: url(./IMAGE.png);
+  background-image: url("./IMAGE.png");
   width: 100%;
   height: 716px;
   background-repeat: no-repeat;
@@ -82,7 +82,7 @@ h1 {
   color: #ffffff;
 }
 .soat {
-  background-image: url(/IMAGE\ \(1\).png);
+  background-image: url("./IMAGE\ \(1\).png");
   height: 600px;
   width: 400px;
 }
@@ -97,7 +97,7 @@ button {
   height: 4vh;
 }
 .qabat {
-  background-image: url(/IMAGE\ \(2\).png);
+  background-image: url("./IMAGE\ \(2\).png");
   height: 600px;
   width: 400px;
   margin-left: 10px;
@@ -120,13 +120,13 @@ button {
   justify-content: center;
 }
 .forest {
-  background-image: url(/IMAGE\ \(3\).png);
+  background-image: url("./IMAGE\ \(3\).png");
   height: 600px;
   width: 400px;
   margin-right: 10px;
 }
 .ohu {
-  background-image: url(/IMAGE\ \(4\).png);
+  background-image: url("./IMAGE\ \(4\).png");
   height: 600px;
   width: 400px;
 }
@@ -136,7 +136,7 @@ button {
   justify-content: center;
 }
 .sea {
-  background-image: url(/IMAGE\ \(5\).png);
+  background-image: url("./IMAGE\ \(5\).png");
   height: 600px;
   background-repeat: no-repeat;
   width: 65%;
@@ -174,7 +174,7 @@ h3 {
   margin-right: 31%;
 }
 .nature{
-    background-image: url(/IMAGE\ \(7\).png);
+    background-image: url("./IMAGE\ \(7\).png");
     height: 600px;
     background-repeat: no-repeat;
     width: 65%;
@@ -197,7 +197,7 @@ h3 {
     font-size: 40px;
 }
 .mountain{
-    background-image:url(/IMAGE\ \(8\).png);
+    background-image:url("./IMAGE\ \(8\).png");
     height: 900px;
     background-repeat: no-repeat;
     width: 100%;
